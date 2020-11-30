@@ -5245,6 +5245,7 @@ button.list-group-item-danger.active:focus {
 
 .embed-responsive {
   position: relative;
+  /* position: initial; */
   display: block;
   height: 0;
   padding: 0;
